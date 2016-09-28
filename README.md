@@ -24,7 +24,7 @@ Often deployed inside messaging apps, chatbots are a popular way of handling cus
 
 You will be building a chatbot that lives in slack messaging application with a well known framework : [Botkit](https://github.com/howdyai/botkit) that was made by [Howdyai](https://howdy.ai/) and sold to Slack a few months ago. 
 
-##Building steps: 
+##Building steps
 
 **1. Create a slack account**
 If you don’t have one already, create one at [Slack](https://slack.com/) and start using it. … or work on something else :)
