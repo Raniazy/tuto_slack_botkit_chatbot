@@ -1,5 +1,6 @@
+<p align="center">
 <img src="https://cdn-images-1.medium.com/max/497/1*uqOOpzC6f0Bl1QxVG70IBw.jpeg?raw=true">
-
+</p>
 # Tutorial on building a slack bot with Botkit
 
 This is a tutorial for building a slack chatbot using botkit. (Based on some steps in the [Kazuar](http://kazuar.github.io/building-slack-game-part1/) tutorial)
@@ -8,9 +9,9 @@ I love [Slack](https://slack.com/). I's my favorite meeting chat room. My intere
 
 A bot is a piece of software designed to execute scripts to automate tasks that you would normally do on your own, such as make a dinner reservation, or update calendar appointment information. 
 Often deployed inside messaging apps, chatbots are a popular way of handling customer service requests. 
-
+<p align="center">
 <img src="https://wolfpaulus.com/wp-content/uploads/2016/05/slackbot-660x400.jpg?raw=true" width="300">
-
+</p>
 [Slack](https://slack.com/) has been interested in chatbots a while now. Here are the most popular bots in [Slack](https://slack.com/)  
 
 <img src="https://s3-us-west-2.amazonaws.com/slack-files2/avatars/2016-05-09/41532123248_86c89d7c608b75bbd782_512.png?raw=true" width="48">  Polly by Subcurrent : Smart polls and automated feedback.
