@@ -1,7 +1,7 @@
 <p align="center">
 <img src="https://cdn-images-1.medium.com/max/497/1*uqOOpzC6f0Bl1QxVG70IBw.jpeg?raw=true">
 </p>
-# Tutorial on building a slack bot with Botkit
+# Building a slack bot with Botkit
 
 This is a tutorial for building a slack chatbot using botkit. (Based on some steps in the [Kazuar](http://kazuar.github.io/building-slack-game-part1/) tutorial)
 
